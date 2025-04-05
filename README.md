@@ -25,6 +25,7 @@ Client SDKs for Native Mobile Development Platforms
 | [OneSignal Android SDK(Huawei)](https://github.com/OneSignal/OneSignal-Android-SDK) | [OneSignal Huawei Setup](https://documentation.onesignal.com/docs/huawei-sdk-setup)   |                    |
 | [OneSignal Android SDK(FireOS)](https://github.com/OneSignal/OneSignal-Android-SDK) | [OneSignal Amazon Setup](https://documentation.onesignal.com/docs/amazon-sdk-setup)   |                    |
 | [OneSignal iOS SDK](https://github.com/OneSignal/OneSignal-iOS-SDK)                 | [OneSignal iOS Setup](https://documentation.onesignal.com/docs/ios-sdk-setup)         |                    |
+| [Flet OneSignal SDK](https://github.com/brunobrown/flet-onesignal) | [Flet OneSignal SDK](https://github.com/brunobrown/flet-onesignal)
 
 # Web SDKs
 
